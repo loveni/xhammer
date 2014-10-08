@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
+encoding//bin/counter=utf-8
 encoding//bin/cumulate=utf-8
 encoding//bin/sample=utf-8
+encoding//lib/data/location.py=utf-8
