@@ -769,8 +769,7 @@ prov=u"""北京市
 台湾
 澳门
 中国
-全国
-""".split("\n")
+全国""".split("\n")
 
 
 prov=set(map(lambda x:x.strip(),prov))
